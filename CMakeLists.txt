@@ -1,0 +1,1 @@
+esphome_register_component(my_epaper_component)
